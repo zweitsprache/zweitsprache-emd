@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;550;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Encode Sans Semi Condensed", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-brand: #0a4a6e;
+  --color-brand-hover: #083c5a;
+  --color-brand-light: #f0f7f9;
+}

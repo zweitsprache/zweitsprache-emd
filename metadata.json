@@ -1,0 +1,6 @@
+{
+  "name": "Zweitsprache Kompetenz-Umfrage",
+  "description": "Eine Online-Umfrage mit 23 randomisierten Items zu Deutsch als Zweitsprache (DaZ). Zugriff per Teilnahme-Code, automatische Auswertung und E-Mail-Zustellung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
